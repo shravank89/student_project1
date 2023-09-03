@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 '''
 st.write(text)
 
-st.header("Our Team")
+st.subheader("Our Team")
 
 col1, emp_col1, col2, emp_col2, col3 = st.columns([4, 1, 4, 1, 4])
 
